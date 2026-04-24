@@ -5,7 +5,12 @@
 <div align="center">
   <h1>hello and welcome to my profile (⁠ ⁠ꈍ⁠ᴗ⁠ꈍ⁠)</h1>
 </div>
-<img src="https://img.shields.io/badge/Azerbaijan-blue?style=flat-square&logo=google-maps%22>
+<h1 align="center">Hi, I'm <a href="https://musozorin.pages.dev/">Zorin</a>!</h1>
+<p align="center">
+  <a href="https://musozorin.pages.dev/">
+    <img src="https://img.shields.io/badge/Azerbaijan-blue?style=flat-square&logo=google-maps%22">
+  </a>
+
   </a>
 <div align="left">
 a little about me ✨

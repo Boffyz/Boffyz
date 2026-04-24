@@ -12,7 +12,9 @@
 
   </a>
 <div align="left">
-a little about me ✨
+profile in development
+
+<img src="https://github.com/Boffyz/Boffyz/blob/main/images/file_000000009b5871f4a8e2a9bb60693201.png" alt="downloading" width="400" />  
   
 
   </a>

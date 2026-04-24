@@ -2,6 +2,9 @@
   <h1>hello and welcome to my profile (⁠ ⁠ꈍ⁠ᴗ⁠ꈍ⁠)</h1>
 </div>
 
+<div align="left">
+a little about me ✨
+
 <!--
 **Boffyz/Boffyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

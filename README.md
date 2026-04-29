@@ -12,7 +12,7 @@
 
   </a>
 <div align="left">
-profile in development
+My name is Boffy (not irl) and im a silly guy on the internet that does cool things :P
 
 <img src="https://github.com/Boffyz/Boffyz/blob/main/images/file_000000009b5871f4a8e2a9bb60693201.png" alt="downloading" width="400" />  
   

@@ -14,6 +14,10 @@
 <div align="left">
 My name is Boffy (not irl) and im a silly guy on the internet that does cool things :P
 
+my interest is softmodding electronics (both low level and hardware modding) and hacking/exploiting tech to get the most out of it, and due to that, i can do many things that i like to do
+
+<div align="left">
+    <h1>if you're going to ask</h1>
 <img src="https://github.com/Boffyz/Boffyz/blob/main/images/file_000000009b5871f4a8e2a9bb60693201.png" alt="downloading" width="400" />  
   
 

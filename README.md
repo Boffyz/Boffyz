@@ -18,8 +18,8 @@ my interest is softmodding electronics (both low level and hardware modding) and
 
 <a/>
 <div align="left">
-    <h2>if you're going to ask, ¿why<h2/>
-	<h5>well why the hell not? :3</h5>
+    <h2>if you're going to ask, ¿why?<h2/>
+	<div align="left"><h5>well why the hell not? :3</h5>
 <img src="https://github.com/Boffyz/Boffyz/blob/main/images/meowscarada.jpg" alt="meowscarada" width="400" />  
 
   <div align="center">

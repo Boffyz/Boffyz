@@ -1,6 +1,6 @@
 <p align="center">
     <img src="https://img.shields.io/badge/Boffyz-CWM-orange?style=for-the-badge&logo=android" alt="Banner" width="50%">
-	<img src="https://img.shields.io/badge/Azerbaijan-blue?style=flat-square&logo=google-maps%22">
+	<img src="https://img.shields.io/badge/Azerbaijan-black?style=material&logo=Linux" alt="Banner" width="50%">
   </a>
 
     

@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://img.shields.io/badge/Boffy-CWM-orange?style=for-the-badge&logo=android" alt="Banner" width="50%">
+    <img src="https://img.shields.io/badge/Boffy-ClockWorkMod-orange?style=for-the-badge&logo=android" alt="Banner" width="50%">
 
     
 <div align="center">

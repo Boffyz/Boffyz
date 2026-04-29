@@ -20,7 +20,7 @@ my interest is softmodding electronics (both low level and hardware modding) and
 <div align="left">
     <h2>if you're going to ask, ¿why?<h2/>
 	<b>well why the hell not? :3<b/>
-<img src="https://github.com/Boffyz/Boffyz/blob/main/images/meowscarada.png" alt="meowscarada" width="400" />  
+<img src="https://github.com/Boffyz/Boffyz/blob/main/images/meowscarada.jpg" alt="meowscarada" width="400" />  
   
 
   </a>

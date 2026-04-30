@@ -1,6 +1,7 @@
 <p align="center">
-    <img src="https://img.shields.io/badge/Boffyz-CWM-orange?style=flat&logo=android" alt="Banner" width="50%">
-	<img src="https://img.shields.io/badge/Azerbaijan-black?style=material&logo=Linux" alt="Banner" width="50%">
+    <img src="https://img.shields.io/badge/Boffyz-CWM-orange?style=plastic&logo=android" alt="Banner" width="50%">
+	<img src="https://img.shields.io/badge/Azerbaijan-blue?style=social&logo=xdadevelopers" alt="Banner" width="50%">
+	<img src="https://img.shields.io/badge/Linux-black?style=flat&logo=linuxmint" alt="Banner" width="50%">
   </a>
 
     

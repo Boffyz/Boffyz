@@ -10,14 +10,14 @@
 
   </a>
 <div align="left">
-My name is Boffy (not irl) and im a silly guy on the internet that does cool things :P
+<h5>My name is Boffy (not irl) and im a silly guy on the internet that does cool things :P</h5>
 
-my interest is softmodding electronics (both low level and hardware modding) and hacking/exploiting (or jailbreaking/homebrewing) tech to get the most out of it, and due to that, i can do many things that i like to do
+<h5>my interest is softmodding electronics (both low level and hardware modding) and hacking/exploiting (or jailbreaking/homebrewing) tech to get the most out of it, and due to that, i can do many things that i like to do</h5>
 
 <a/>
 <div align="left">
-    <h2>if you're going to ask, ¿why?<h2/>
-	<div align="left"><h5>well why the hell not? :3</h5>
+    <h1>if you're going to ask, ¿why?</h1>
+	<div align="center"><h5>well why the hell not? :3</h5>
 <img src="https://github.com/Boffyz/Boffyz/blob/main/images/meowscarada.jpg" alt="meowscarada" width="400" />  
 
   <div align="center">

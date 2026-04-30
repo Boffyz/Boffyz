@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://img.shields.io/badge/Boffyz-CWM-orange?style=for-the-badge&logo=android" alt="Banner" width="50%">
+    <img src="https://img.shields.io/badge/Boffyz-CWM-orange?style=flat&logo=android" alt="Banner" width="50%">
 	<img src="https://img.shields.io/badge/Azerbaijan-black?style=material&logo=Linux" alt="Banner" width="50%">
   </a>
 
@@ -12,7 +12,7 @@
 <div align="left">
 My name is Boffy (not irl) and im a silly guy on the internet that does cool things :P
 
-my interest is softmodding electronics (both low level and hardware modding) and hacking/exploiting tech to get the most out of it, and due to that, i can do many things that i like to do
+my interest is softmodding electronics (both low level and hardware modding) and hacking/exploiting (or jailbreaking/homebrewing) tech to get the most out of it, and due to that, i can do many things that i like to do
 
 <a/>
 <div align="left">

@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="https://github.com/Boffyz/Boffyz/blob/main/images/jirachi.jpg" alt="meowscarada" width="600" />  
+	<img src="https://github.com/Boffyz/Boffyz/blob/main/images/jirachi.jpg" alt="meowscarada" width="1000" />  
 <p align="left">
     <img src="https://img.shields.io/badge/Boffyz-CWM-orange?style=plastic&logo=android" alt="Banner" width="50%">
 	<img src="https://img.shields.io/badge/Azerbaijan-blue?style=social&logo=google-maps" alt="Banner" width="50%">
@@ -10,7 +10,8 @@
 <div align="center">
   <h1>hello and welcome to my profile (⁠ ⁠ꈍ⁠ᴗ⁠ꈍ⁠)</h1>
 </div>
-
+<p align="left">
+	<img src="https://github.com/Boffyz/Boffyz/blob/main/images/Yo!.jpg" alt="meowscarada" width="200" />  
   </a>
 <div align="left">
 <h5>My name is Boffy (not irl) and im a silly guy on the internet that does cool things :P</h5>

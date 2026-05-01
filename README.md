@@ -17,7 +17,7 @@
 
 <a/>
 <div align="left">
-    <strong><h1>if you're going to ask, ¿why?</h1></strong>
+    <h1>if you're going to ask, ¿why?</h1>
 	<div align="center"><h5>well why the hell not? :3</h5>
 <img src="https://github.com/Boffyz/Boffyz/blob/main/images/meowscarada.jpg" alt="meowscarada" width="400" />  
 

@@ -1,4 +1,6 @@
 <p align="center">
+	<img src="https://github.com/Boffyz/Boffyz/blob/main/images/jirachi.jpg" alt="meowscarada" width="600" />  
+<p align="left">
     <img src="https://img.shields.io/badge/Boffyz-CWM-orange?style=plastic&logo=android" alt="Banner" width="50%">
 	<img src="https://img.shields.io/badge/Azerbaijan-blue?style=social&logo=google-maps" alt="Banner" width="50%">
 	<img src="https://img.shields.io/badge/Linux-black?style=flat&logo=linuxmint" alt="Banner" width="50%">

@@ -10,6 +10,8 @@
 <div align="center">
   <h1>hello and welcome to my profile (⁠ ⁠ꈍ⁠ᴗ⁠ꈍ⁠)</h1>
 
+---
+
 </div>
 <p align="left">
 	<img src="https://github.com/Boffyz/Boffyz/blob/main/images/Yo!.jpg" alt="meowscarada" width="200" />  
@@ -22,14 +24,18 @@
 <a/>
 <div align="left">
     <h1>if you're going to ask, ¿why?</h1>
-	<div align="center"><h5>well why the hell not? :3</h5>
+	
+**well why the hell not? :3**
 <img src="https://github.com/Boffyz/Boffyz/blob/main/images/meowscarada.jpg" alt="meowscarada" width="600" />  
 
   <div align="center">
   so what are you staring at? check out my cool repositories and go give them your review :)
 
+<p align="center">
 
-<h5>umbreon on space because idk</h5>
+---
+	
+**umbreon on space because idk**
 <img src="https://github.com/Boffyz/Boffyz/blob/main/images/umbreon.gif" alt="umbreonspace" width="200" />  
 
   </a>

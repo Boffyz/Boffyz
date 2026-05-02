@@ -9,6 +9,7 @@
     
 <div align="center">
   <h1>hello and welcome to my profile (⁠ ⁠ꈍ⁠ᴗ⁠ꈍ⁠)</h1>
+
 </div>
 <p align="left">
 	<img src="https://github.com/Boffyz/Boffyz/blob/main/images/Yo!.jpg" alt="meowscarada" width="200" />  
@@ -16,7 +17,7 @@
 <div align="left">
 <h5>My name is Boffy (not irl) and im a silly guy on the internet that does cool things :P</h5>
 
-<h5>my interest is softmodding electronics (both low level and hardware modding) and hacking/exploiting (or jailbreaking/homebrewing) tech to get the most out of it, and due to that, i can do many things that i like to do</h5>
+* **my interest is softmodding electronics (both low level and hardware modding) and hacking/exploiting (or jailbreaking/homebrewing) tech to get the most out of it, and due to that, i can do many things that i like to do**
 
 <a/>
 <div align="left">

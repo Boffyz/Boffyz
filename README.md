@@ -24,16 +24,15 @@
 <div align="left">
 	<h1>my interests are...</h1>
 	
-* **softmodding electronics (both low level and hardware modding)**
+* **Softmodding electronics (both low level and hardware modding)**
 
-* **hacking/jailbreaking (homebrew) tech to get things like minecraft working on my nokia 3310 2017 🗿**
+* **Hacking/jailbreaking (homebrew) tech to get things like minecraft working on my nokia 3310 2017 🗿**
 
-* **goof around :3**
-	<a/>
-<div align="left">
-    <h1>if you're going to ask, ¿why though?</h1>
+* ***goof around :3***
+
+<h1>if you're going to ask, ¿why though?</h1>
 	
-**well why the hell not? :3**
+***well why the hell not? :3***
 <img src="https://github.com/Boffyz/Boffyz/blob/main/images/meowscarada.jpg" alt="meowscarada" width="600" />  
 
   <div align="center">

@@ -31,8 +31,10 @@
 * ***goof around :3***
 
 <h1>if you're going to ask, ¿why though?</h1>
-	
+	  <div align="left">
+		  
 ***well why the hell not? :3***
+
 <img src="https://github.com/Boffyz/Boffyz/blob/main/images/meowscarada.jpg" alt="meowscarada" width="600" />  
 
   <div align="center">
@@ -43,6 +45,7 @@
 ---
 	
 **umbreon on space because idk**
+
 <img src="https://github.com/Boffyz/Boffyz/blob/main/images/umbreon.gif" alt="umbreonspace" width="200" />  
 
   </a>

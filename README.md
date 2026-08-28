@@ -38,7 +38,7 @@
 <img src="https://github.com/Boffyz/Boffyz/blob/main/images/meowscarada.jpg" alt="meowscarada" width="600" />  
 
   <div align="center">
-  so what are you staring at? check out my cool repositories and go give them your review :)
+  so what are you staring at? check out my cool repositories and go give them your review :]
 
 <p align="center">
 
